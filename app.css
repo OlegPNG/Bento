@@ -50,7 +50,8 @@
   --cards: #3F4E4F; /* Cards color */
 
   /* Fonts Color */
-  --fg: #d8dee9; /* Foreground color */
+  /*--fg: #d8dee9; /* Foreground color */
+  --fg: #D4C4B7; /* Foreground custom color */
   --sfg: #2c292e; /* Secondary Foreground color */
 
   /* Image background  */
