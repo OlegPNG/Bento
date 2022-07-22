@@ -44,14 +44,21 @@
   --background: #19171a; /* Background color * /
   --cards: #201e21; /* Cards color * /
   */
-  /*Custom Dark Colors*/
-  --accent: #A27B5C; /* Hover color */
-  --background: #2C3639; /* Background color */
-  --cards: #3F4E4F; /* Cards color */
+
+
+  /* Dark Green Colors
+   --accent: #A27B5C; /* Hover color * /
+   --background: #2C3639; /* Background color * /
+   --cards: #3F4E4F; /* Cards color */
+
+  /*Maroon Dark Colors*/
+  --accent: #F2A07B; /* Hover color */
+  --background: #31112C; /* Background color */
+  --cards: #7D0633; /* Cards color */
 
   /* Fonts Color */
   /*--fg: #d8dee9; /* Foreground color */
-  --fg: #A27B5C; /* Foreground custom color */
+  --fg: #F2A07B; /* Foreground custom color */
   --sfg: #2c292e; /* Secondary Foreground color */
 
   /* Image background  */
