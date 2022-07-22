@@ -104,9 +104,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'bot',
-			icon: 'bot',
-			link: 'https://discord.com/app',
+			name: 'School',
+			icon: 'graduation-cap',
+			link: 'https://ung.view.usg.edu/d2l/home',
 		},
 		{
 			id: '4',
