@@ -38,10 +38,16 @@
 }
 
 .darktheme {
-  /* Dark Colors  */
-  --accent: #57a0d9; /* Hover color */
-  --background: #19171a; /* Background color */
-  --cards: #201e21; /* Cards color */
+  /* Default
+  /* Dark Colors * /
+  --accent: #57a0d9; /* Hover color * /
+  --background: #19171a; /* Background color * /
+  --cards: #201e21; /* Cards color * /
+  */
+  /*Custom Dark Colors*/
+  --accent: #3F4E4F; /* Hover color */
+  --background: #2C3639; /* Background color */
+  --cards: #A27B5C; /* Cards color */
 
   /* Fonts Color */
   --fg: #d8dee9; /* Foreground color */
