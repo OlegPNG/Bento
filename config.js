@@ -116,9 +116,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Hashnode',
+			name: 'Substack',
 			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
+			link: 'https://substack.com/inbox',
 		},
 		{
 			id: '6',
