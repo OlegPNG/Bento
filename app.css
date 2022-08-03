@@ -46,10 +46,15 @@
   */
 
 
-  /* Dark Green Colors */
-   --accent: #A27B5C; /* Hover color */
-   --background: #2C3639; /* Background color */
+  /* Dark Green Colors * /
+   --accent: #A27B5C; /* Hover color * / 
+   --background: #2C3639; /* Background color * /
    --cards: #3F4E4F; /* Cards color */
+
+   /* Gruvbox Colors */
+   --accent: #d79921; /* Hover color */
+   --background: #282828; /* Background color */
+   --cards: #504945; /* Cards color */
 
   /*Maroon Dark Colors* /
   --accent: #F2A07B; /* Hover color * /
@@ -58,7 +63,7 @@
 
   /* Fonts Color */
   /*--fg: #d8dee9; /* Foreground color */
-  --fg: #A27B5C; /* Foreground custom color */
+  --fg: #ebdbb2; /* Foreground custom color */
   --sfg: #2c292e; /* Secondary Foreground color */
 
   /* Image background  */
