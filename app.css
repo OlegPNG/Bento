@@ -39,11 +39,10 @@
 
 .darktheme {
   /* Default
-  /* Dark Colors * /
-  --accent: #57a0d9; /* Hover color * /
-  --background: #19171a; /* Background color * /
-  --cards: #201e21; /* Cards color * /
-  */
+  /* Dark Colors */
+  --accent: #57a0d9; /* Hover color */
+  --background: #19171a; /* Background color */
+  --cards: #201e21; /* Cards color */
 
 
   /* Dark Green Colors * /
@@ -51,9 +50,9 @@
    --background: #2C3639; /* Background color * /
    --cards: #3F4E4F; /* Cards color */
 
-   /* Gruvbox Colors */
-   --accent: #d79921; /* Hover color */
-   --background: #282828; /* Background color */
+   /* Gruvbox Colors * /
+   --accent: #d79921; /* Hover color * /
+   --background: #282828; /* Background color * /
    --cards: #504945; /* Cards color */
 
   /*Maroon Dark Colors* /
@@ -62,8 +61,8 @@
   --cards: #7D0633; /* Cards color */
 
   /* Fonts Color */
-  /*--fg: #d8dee9; /* Foreground color */
-  --fg: #ebdbb2; /* Foreground custom color */
+  --fg: #d8dee9; /* Foreground color */
+  /*--fg: #ebdbb2; /* Foreground custom color */
   --sfg: #2c292e; /* Secondary Foreground color */
 
   /* Image background  */
